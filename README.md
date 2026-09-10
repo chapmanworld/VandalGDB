@@ -22,7 +22,7 @@ This repository exists for internal use while building Vandalism Engine and its 
 
 ## Contributions and issue tracking
 
-This is **not a maintained fork**. Craig Chapman is not accepting contributions here, and this repository is not the place to raise issues, ask questions, or request features.
+This is **not a maintained fork**. ChapmanWorld is not accepting contributions here, and this repository is not the place to raise issues, ask questions, or request features.
 
 * Please do not use this repository as a GDB support forum.
 * Please do not raise issues here for upstream GDB bugs.
